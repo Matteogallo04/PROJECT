@@ -1,0 +1,67 @@
+
+body {
+    background-color: lightblue;
+    background-image: url(assets/sfondo.png);
+    background-position: center right;
+    background-repeat: repeat ;
+    background-size: 35em;
+}
+
+
+/* IL PUNTO è PERCHè è UNA CLASSE altezze minime per creare quadrato bianco*/
+.container {
+    width: 300px;
+    
+    min-height: 210px;
+    background-color: rgb(26, 10, 203);
+    margin: 0 auto;
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(17,17,143,1) 20%, rgba(0,212,255,1) 100%);
+    
+
+}
+
+.image img {
+    width: 50%;
+    
+}
+.image img {
+    position: relative;
+    left: 75px;
+    
+  }
+
+.pippo {
+    position: relative;
+    left: 40px;
+    color: aliceblue;
+    font-style: italic;
+    font: bold;
+}
+
+.pippo1 {
+    position: relative;
+    left: 80px;
+    color: aliceblue;
+    font-style: italic;
+    font: bold;
+}
+
+
+a {
+    color: aliceblue;
+}
+
+.container1 {
+    width: 300px;
+    
+    min-height: 210px;
+    background-color: white;
+    margin: 0 auto;
+    min-inline-size: 500px;
+    }
+
+.pippo2 {
+    color: black;
+    font-style: italic;
+    font: bold;
+}
