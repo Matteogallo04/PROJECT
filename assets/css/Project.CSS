@@ -1,7 +1,7 @@
 
 body {
     background-color: lightblue;
-    background-image: url(assets/img/sfondo.png);
+    background-image: url(assets/sfondo.png);
     background-position: center right;
     background-repeat: repeat ;
     background-size: 35em;
